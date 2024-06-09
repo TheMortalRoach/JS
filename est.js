@@ -1,3 +1,3 @@
-const npc = nothing;
+const npc = something;
 
 console.log(npc);
